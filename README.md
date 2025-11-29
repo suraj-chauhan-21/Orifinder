@@ -22,7 +22,7 @@ We look for clues in the letters of the DNA (A, T, C, G).
    pip install -r requirements.txt
 
    
-nalysis Part
+Analysis Part
 
 <img width="785" height="502" alt="image" src="https://github.com/user-attachments/assets/614cd0a9-33be-4bdf-b51c-d9f30536160b" />
 1. The Y-Axis (Vertical Side)
