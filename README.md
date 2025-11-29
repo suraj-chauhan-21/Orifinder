@@ -1,6 +1,6 @@
 # Orifinder
 Author-Suraj Chauhan
-# Simple Ori-Finder 🧬
+# Simple O 🧬
 
 A Python tool to find the **Origin of Replication (oriC)** in bacterial genomes using GC Skew analysis.
 
