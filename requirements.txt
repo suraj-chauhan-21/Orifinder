@@ -1,0 +1,2 @@
+Create a file named requirements.txt. This tells people what library they need
+matplotlib
