@@ -1,9 +1,9 @@
 # Orifinder
-Author-Suraj Chauhan 🧬
+Author-Suraj Chauhan 
 
 A Python tool to find the **Origin of Replication (oriC)** in bacterial genomes using GC Skew analysis.
 
-## 👶 What is this?
+##  What is this?
 
 Imagine a bacterium's DNA is like a giant, circular race track. When a bacterium wants to make a copy of itself, it needs a specific **"Start Line."** In biology, this start line is called the **Origin of Replication**.
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/24693ea1-e41f-4373-bf03-48ba78f44e1a" />
